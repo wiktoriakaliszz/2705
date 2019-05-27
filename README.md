@@ -1,24 +1,24 @@
-#Techtalk
+# Techtalk
 
-#How does it work?
+# How does it work?
 
-#Everyday, one of the juniors chooses a topic with regards to web development. The juniors then gives a presentation about the topic. After the presentation, there will be a feedback session. 
+# Everyday, one of the juniors chooses a topic with regards to web development. The juniors then gives a presentation about the topic. After the presentation, there will be a feedback session. 
 
-#Now it's up to you!
+# Now it's up to you!
 
-#To make everything run smoothly, the juniors (you) are responsible for maintaining the agenda.md.
-#Remember, there should be a techtalk every day!
+# To make everything run smoothly, the juniors (you) are responsible for maintaining the agenda.md.
+# Remember, there should be a techtalk every day!
 
-#Instructions
+# Instructions
 
-#Via the terminal:  
+# Via the terminal:  
 
-#Clone this repository / Pull the lastest updates.
-#Edit the agenda.md.
-#Commit with a relevant commit message.
-#Push the changes online.
+# Clone this repository / Pull the lastest updates.
+# Edit the agenda.md.
+# Commit with a relevant commit message.
+# Push the changes online.
 
-#Topic ideas:
+# Topic ideas:
 
 * gitignore
 * jQuery
